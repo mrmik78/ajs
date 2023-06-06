@@ -1,0 +1,19 @@
+{
+  "name": "@mrmik78/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "(dist/index.js)\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[D\u001b[D\u001b[C dist/index.js\u001b[3~\u001b[3~\u001b[C\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmik78/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmik78/ajs/issues"
+  },
+  "homepage": "https://github.com/mrmik78/ajs#readme"
+}
